@@ -97,5 +97,3 @@ Me chamo Laura Capssa, tenho 23 anos e sou natural do Rio Grande do Sul. Atualme
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   /> 
 </p>
-
----
