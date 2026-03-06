@@ -41,13 +41,6 @@ Atualmente, estou cursando Ciência da Computação na UNIJUÍ. Sou Apaixonada p
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
   />
   <img 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="margin: 10px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  <img 
     alt="Grafana"
     title="Grafana" 
     width="40px" 
@@ -68,6 +61,13 @@ Atualmente, estou cursando Ciência da Computação na UNIJUÍ. Sou Apaixonada p
     style="margin: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
    />
+<img 
+  alt="Terraform"
+  title="Terraform" 
+  width="40px" 
+  style="margin: 10px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
+/>
   <img 
     alt="Kubernetes"
     title="Kubernetes" 
